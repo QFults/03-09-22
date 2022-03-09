@@ -21,3 +21,24 @@
 // })
 
 // console.log(evens)
+
+// const total = nums.reduce((t, num) => {
+//   return t + num
+// }, 0)
+
+// console.log(total)
+
+// const name = 'John Doe'
+
+// console.log('Good morning ' + name + '!')
+
+// console.log(`
+// -----------
+// Good morning ${name}!
+// -----------
+// `)
+
+// const a = 5
+// const b = 7
+
+// console.log(`The total of a & b is ${a + b}, ${name}!`)
