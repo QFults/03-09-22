@@ -63,3 +63,7 @@
 //   if (err) { console.log(err) }
 //   console.log(data)
 // })
+
+// const people = require('./people.js')
+
+// console.log(people)
