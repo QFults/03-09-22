@@ -42,3 +42,10 @@
 // const b = 7
 
 // console.log(`The total of a & b is ${a + b}, ${name}!`)
+
+// console.log(process.argv)
+
+// const a = parseInt(process.argv[2])
+// const b = parseInt(process.argv[3])
+
+// console.log(a + b)
